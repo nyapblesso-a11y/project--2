@@ -68,17 +68,15 @@
   display: flex;
   flex-direction: row;
   justify-content: space-around;
-
 }
 
 .rental-left {
   background-color: #54a6ff;
   border: 1px solid #54a6ff;
-  height: 20rem;
+  height: 25rem;
   border-radius: 10px;
   width: 42rem;
   margin-top: 2%;
-  height: 25rem;
 }
 
 .rental-right {
