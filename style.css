@@ -165,7 +165,7 @@
 }
 
 .locat span {
-  font-size: .8rem;
+  font-size: 0.8rem;
 }
 
 .date h1 {
@@ -173,7 +173,7 @@
 }
 
 .date span {
-  font-size: .8rem;
+  font-size: 0.8rem;
 }
 
 .time h1 {
@@ -196,7 +196,7 @@
 }
 
 .locat1 span {
-  font-size: .8rem;
+  font-size: 0.8rem;
 }
 
 .date1 h1 {
@@ -204,7 +204,7 @@
 }
 
 .date1 span {
-  font-size: .8rem;
+  font-size: 0.8rem;
 }
 
 .time1 h1 {
@@ -212,7 +212,7 @@
 }
 
 .time1 span {
-  font-size: .8rem;
+  font-size: 0.8rem;
 }
 
 .swap {
@@ -234,6 +234,7 @@
   justify-content: space-between;
   margin-top: 4%;
 }
+
 .disp p {
   margin-left: 3%;
 }
@@ -241,4 +242,33 @@
 .disp span {
   color: #3563e9;
   margin-right: 3%;
+}
+
+#middle {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  margin-top: 4%;
+}
+
+.koen {
+  border: 0.5px solid #fff;
+  border-radius: 10px;
+  background-color: #fff;
+  width: 304px;
+  height: 388px;
+}
+
+.red-hrt {
+  display: flex;
+  justify-content: space-between;
+}
+
+.red-hrt h1 {
+  margin-left: 4%;
+  font-weight: bold;
+}
+
+.red-hrt img {
+  margin-right: 4%;
 }
