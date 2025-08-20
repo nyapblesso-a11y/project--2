@@ -78,6 +78,7 @@
   border-radius: 10px;
   width: 42rem;
   margin-top: 2%;
+  height: 25rem;
 }
 
 .rental-right {
@@ -86,4 +87,44 @@
   border-radius: 10px;
   width: 42rem;
   margin-top: 2%;
+}
+
+.text h1 {
+  color: white;
+  font-size: 30px;
+  width: 40%;
+  margin-left: 4%;
+  margin-top: 7%;
+}
+
+.mid-left {
+  color: #fff;
+  margin-top: 2%;
+  width: 40%;
+  margin-left: 4% ;
+}
+
+.bnt-1 {
+  border: 0.5px solid #3563e9;
+  border-radius: 4px;
+  width: 6rem;
+  height: 2.5rem;
+  background-color: #3563e9;
+  color: #fff;
+  margin-top: 3%;
+}
+
+.bnt-2 {
+   border: 0.5px solid #54a6ff;
+  border-radius: 4px;
+  width: 6rem;
+  height: 2.5rem;
+  background-color: #54a6ff;
+  color: #fff;
+  margin-top: 3%;
+}
+.img-7 {
+  height: 25%;
+  margin-top: 6%;
+  margin-left: 15rem;
 }
