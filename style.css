@@ -101,7 +101,7 @@
   color: #fff;
   margin-top: 2%;
   width: 40%;
-  margin-left: 4% ;
+  margin-left: 4%;
 }
 
 .bnt-1 {
@@ -115,7 +115,7 @@
 }
 
 .bnt-2 {
-   border: 0.5px solid #54a6ff;
+  border: 0.5px solid #54a6ff;
   border-radius: 4px;
   width: 6rem;
   height: 2.5rem;
@@ -123,8 +123,122 @@
   color: #fff;
   margin-top: 3%;
 }
+
 .img-7 {
   height: 25%;
   margin-top: 6%;
   margin-left: 15rem;
+}
+
+#pick {
+  display: flex;
+  flex-direction: row;
+}
+
+.text-box {
+  display: flex;
+  flex-direction: column;
+  border: 0.5px solid #fff;
+  border-radius: 10px;
+  width: 40%;
+  background-color: #fff;
+  margin-top: 2%;
+  height: 8rem;
+  margin-left: 4%;
+
+}
+
+.text-box h1 {
+  margin-top: 2%;
+  margin-left: 5%;
+}
+
+.box-bt {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  margin-top: 2%;
+}
+
+.locat h1 {
+  font-size: 1rem;
+}
+
+.locat span {
+  font-size: .8rem;
+}
+
+.date h1 {
+  font-size: 1rem;
+}
+
+.date span {
+  font-size: .8rem;
+}
+
+.time h1 {
+  font-size: 1rem;
+}
+
+.timebt span {
+  font-size: .8rem;
+}
+
+.box1-bt {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  margin-top: 2%;
+}
+
+.locat1 h1 {
+  font-size: 1rem;
+}
+
+.locat1 span {
+  font-size: .8rem;
+}
+
+.date1 h1 {
+  font-size: 1rem;
+}
+
+.date1 span {
+  font-size: .8rem;
+}
+
+.time1 h1 {
+  font-size: 1rem;
+}
+
+.time1 span {
+  font-size: .8rem;
+}
+
+.swap {
+  background-color: #3563e9;
+  margin-top: 4%;
+  height: 5rem;
+  margin-left: 3%;
+  width: 4.5rem;
+  border-radius: 10px;
+}
+
+.swap img {
+  margin-top: 35%;
+  margin-left: 30%;
+}
+
+.disp {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 4%;
+}
+.disp p {
+  margin-left: 3%;
+}
+
+.disp span {
+  color: #3563e9;
+  margin-right: 3%;
 }
