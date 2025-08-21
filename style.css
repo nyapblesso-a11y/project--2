@@ -57,9 +57,8 @@
   #search {
     width: 100px;
     padding: 0 10px;
- 
   }
-  
+
   .head {
     display: flex;
     flex-direction: column;
@@ -71,19 +70,20 @@
 
   .search-comtainer {
     height: 48px;
-    width: 263px; 
+    width: 263px;
     margin-top: 1rem;
   }
 
   .search-comtainer p {
     font-size: 0.5rem;
   }
+
   .head-img {
-    transform: translateY(-5rem );
+    transform: translateY(-5rem);
     display: flex;
     flex-direction: row;
     justify-content: end;
-    height: 2rem; 
+    height: 2rem;
   }
 
   .rental-right {
@@ -94,7 +94,6 @@
 #body {
   background-color: #f6f7f9;
   height: 2290px;
-
 }
 
 #rental {
@@ -162,14 +161,14 @@
 }
 
 @media screen and (max-width:390px) {
-#pick {
-  display: flex;
-  flex-wrap: wrap;
-}
-.text-box {
-  width: 50rem;
-}
+  #pick {
+    display: flex;
+    flex-wrap: wrap;
+  }
 
+  .text-box {
+    width: 50rem;
+  }
 }
 
 #pick {
@@ -711,7 +710,7 @@
   flex-direction: row;
   grid-template-rows: auto;
   gap: 30%;
-  height: 30vh;
+  height: 20vh;
   width: 95%;
 }
 
@@ -739,7 +738,7 @@
   gap: 90px;
 }
 
-.about h1{
+.about h1 {
   font-size: 1rem;
 }
 
@@ -798,6 +797,7 @@
   margin-top: 2rem;
   height: 5vh;
 }
+
 .lst {
   font-weight: bold;
 }
@@ -810,4 +810,3 @@
   font-weight: bold;
   font-size: 1rem;
 }
-
