@@ -255,6 +255,8 @@
   background-color: #fff;
   width: 304px;
   height: 388px;
+  padding-top: 2%;
+
 }
 
 .red-hrt {
@@ -263,10 +265,104 @@
 }
 
 .red-hrt h1 {
-  margin-left: 4%;
+  padding-left: 4%;
   font-weight: bold;
 }
 
 .red-hrt img {
-  margin-right: 4%;
+  padding-right: 4%;
+}
+
+.koen span {
+  font-size: 1rem;
+  margin-left: 4%;
+  color: #90a3bf;
+  padding-top: 4%;
+}
+
+.sprt {
+  height: 5rem;
+  padding-top: 20%;
+}
+
+.catego {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  padding-top: 20%;
+}
+
+.dollar {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  padding-top: 10%;
+}
+
+.dollar h1 {
+  margin-top: 6%;
+}
+
+.whit-hrt {
+  display: flex;
+  justify-content: space-between;
+}
+
+.bnt-11 {
+  border: 0.5px solid #3563e9;
+  border-radius: 4px;
+  width: 6rem;
+  height: 2.5rem;
+  background-color: #3563e9;
+  color: #fff;
+  margin-top: 3%;
+}
+
+.sprt1 {
+  height: 5rem;
+  padding-top: 20%;
+}
+
+.bnt-12 {
+  border: 0.5px solid #3563e9;
+  border-radius: 4px;
+  width: 6rem;
+  height: 2.5rem;
+  background-color: #3563e9;
+  color: #fff;
+  margin-top: 3%;
+}
+
+.smt {
+  height: 1rem;
+}
+
+.smt1 {
+  height: 1rem;
+}
+
+.whit0-hrt {
+  display: flex;
+  justify-content: space-between;
+}
+
+.dollar0 {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  padding-top: 10%;
+}
+
+.dollar0 h1 {
+  margin-top: 6%;
+}
+
+.bnt-13 {
+  border: 0.5px solid #3563e9;
+  border-radius: 4px;
+  width: 6rem;
+  height: 2.5rem;
+  background-color: #3563e9;
+  color: #fff;
+  margin-top: 3%;
 }
