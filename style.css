@@ -123,9 +123,9 @@
 }
 
 .img-7 {
-  height: 25%;
+  height: 30%;
   margin-top: 6%;
-  margin-left: 15rem;
+  margin-left: 13rem;
 }
 
 #pick {
@@ -273,6 +273,15 @@
   padding-right: 4%;
 }
 
+.whit-hrt h1 {
+  padding-left: 4%;
+  font-weight: bold;
+}
+
+.whit-hrt img {
+  padding-right: 4%;
+}
+
 .koen span {
   font-size: 1rem;
   margin-left: 4%;
@@ -358,6 +367,262 @@
 }
 
 .bnt-13 {
+  border: 0.5px solid #3563e9;
+  border-radius: 4px;
+  width: 6rem;
+  height: 2.5rem;
+  background-color: #3563e9;
+  color: #fff;
+  margin-top: 3%;
+}
+
+.rec {
+  margin-left: 3%;
+  padding-top: 3rem;
+}
+
+#last {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+
+}
+
+.recom {
+  border: 0.5px solid #fff;
+  border-radius: 10px;
+  background-color: #fff;
+  width: 304px;
+  height: 388px;
+  padding-top: 2%;
+  margin-top: 4%;
+}
+
+.becs {
+  height: 5rem;
+  padding-top: 16%;
+  margin-left: 2rem;
+}
+
+.recom span {
+  font-size: 1rem;
+  margin-left: 4%;
+  color: #90a3bf;
+  padding-top: 4%;
+}
+
+.recom p {
+  font-size: 1rem;
+  margin-left: 4%;
+  color: #90a3bf;
+  padding-top: 4%;
+}
+
+.kit-1 {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  padding-top: 16%;
+}
+
+.dollar5 {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  padding-top: 10%;
+}
+
+.mone span {
+  text-decoration: line-through;
+}
+
+.bnt-15 {
+  border: 0.5px solid #3563e9;
+  border-radius: 4px;
+  width: 6rem;
+  height: 2.5rem;
+  background-color: #3563e9;
+  color: #fff;
+  margin-top: 3%;
+}
+
+.kit-2 {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  padding-top: 16%;
+}
+
+.smt-4 {
+  height: 1rem;
+}
+
+.dollar6 {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  padding-top: 10%;
+}
+
+.bnt-16 {
+  border: 0.5px solid #3563e9;
+  border-radius: 4px;
+  width: 6rem;
+  height: 2.5rem;
+  background-color: #3563e9;
+  color: #fff;
+  margin-top: 3%;
+}
+
+.kit-3 {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  padding-top: 16%;
+}
+
+.dollar7 {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  padding-top: 10%;
+}
+
+.bnt-17 {
+  border: 0.5px solid #3563e9;
+  border-radius: 4px;
+  width: 6rem;
+  height: 2.5rem;
+  background-color: #3563e9;
+  color: #fff;
+  margin-top: 3%;
+}
+
+.dollar8 {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  padding-top: 10%;
+}
+
+.bnt-18 {
+  border: 0.5px solid #3563e9;
+  border-radius: 4px;
+  width: 6rem;
+  height: 2.5rem;
+  background-color: #3563e9;
+  color: #fff;
+  margin-top: 3%;
+}
+
+.becs1 {
+  height: 6rem;
+  padding-top: 16%;
+  margin-left: 2rem;
+}
+
+.kit4 {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  padding-top: 16%;
+}
+
+.dollar9 {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  padding-top: 10%;
+}
+
+.bnt-19 {
+  border: 0.5px solid #3563e9;
+  border-radius: 4px;
+  width: 6rem;
+  height: 2.5rem;
+  background-color: #3563e9;
+  color: #fff;
+  margin-top: 3%;
+}
+
+.kit-5 {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  padding-top: 16%;
+}
+
+.dollar10 {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  padding-top: 10%;
+}
+
+.bnt-110 {
+  border: 0.5px solid #3563e9;
+  border-radius: 4px;
+  width: 6rem;
+  height: 2.5rem;
+  background-color: #3563e9;
+  color: #fff;
+  margin-top: 3%;
+}
+
+.kit-6 {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  padding-top: 16%;
+}
+
+.dollar011 {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  padding-top: 10%;
+}
+
+.bnt-101 {
+  border: 0.5px solid #3563e9;
+  border-radius: 4px;
+  width: 6rem;
+  height: 2.5rem;
+  background-color: #3563e9;
+  color: #fff;
+  margin-top: 3%;
+}
+
+.whit1-hrt {
+  display: flex;
+  justify-content: space-between;
+
+}
+
+.whit1-hrt h1 {
+  padding-left: 4%;
+  font-weight: bold;
+}
+
+.whit1-hrt img {
+  padding-right: 4%;
+}
+
+.kit-8 {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  padding-top: 16%;
+}
+
+.dollar102 {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  padding-top: 10%;
+}
+
+.bnt-002 {
   border: 0.5px solid #3563e9;
   border-radius: 4px;
   width: 6rem;
