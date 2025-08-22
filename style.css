@@ -55,8 +55,9 @@
 
 @media screen and (max-width: 390px) {
   #search {
-    width: 100%;
+    width: 50%;
     padding: 0 10px;
+    height: 60%;
   }
 
   .head {
@@ -81,7 +82,7 @@
   .head-img {
     height: 2rem;
     display: flex;
-    transform: translate(17rem, -6rem);
+    transform: translate(14rem, -6rem);
   }
 
   .rental-right {
@@ -89,7 +90,20 @@
   }
 
   .pop {
-    height: 15rem;
+    height: 8rem;
+    display: flex;
+    justify-content: flex-start;
+  }
+
+
+  .rental-left {
+    height: 90%;
+    width: 80%;
+  }
+
+  #body {
+    margin: auto;
+    height: 100%;
   }
 }
 
@@ -166,20 +180,31 @@
   #pick {
     display: flex;
     flex-wrap: wrap;
-  }
-
-  .text-box {
-    width: 50rem;
+    width: 100%
   }
 
   #middle {
+    display: flex;
     overflow: scroll;
+  }
+
+  /* footer */
+
+  #footer {
+    display: flex;
+    flex-direction: column;
+  }
+
+  .foot-rit {
+    display: flex;
+    flex-wrap: wrap;
   }
 }
 
 #pick {
   display: flex;
   flex-direction: row;
+  justify-content: space-around;
 }
 
 .text-box {
@@ -226,7 +251,7 @@
   font-size: 1rem;
 }
 
-.timebt span {
+.time span {
   font-size: 0.8rem;
 }
 
@@ -703,7 +728,6 @@
   margin-left: 4%;
   color: #90a3bf;
   padding-top: 4%;
-  padding-left: 40%;
 }
 
 /* footer */
@@ -713,8 +737,6 @@
   flex-direction: row;
   grid-template-rows: auto;
   gap: 30%;
-  height: 30vh;
-  width: 95%;
 }
 
 .foot-lft {
