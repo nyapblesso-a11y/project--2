@@ -603,7 +603,6 @@
   }
 }
 
-
 .kit-3 {
   display: flex;
   flex-direction: row;
@@ -906,7 +905,7 @@
     display: flex;
     flex-wrap: wrap;
     gap: 2%;
-    margin-left: 3%
+    margin-left: 3%;
   }
 
   .footer-rit {
