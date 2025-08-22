@@ -99,11 +99,15 @@
     height: 90%;
     width: 80%;
   }
+
+  #body {
+    width: 100%;
+  }
 }
 
 #body {
   background-color: #f6f7f9;
-  height: 2290px;
+  height: auto;
 }
 
 #rental {
@@ -468,7 +472,7 @@
 }
 
 .becs {
-  height: 5rem;
+  height: 6rem;
   padding-top: 16%;
   margin-left: 2rem;
 }
@@ -543,6 +547,63 @@
   margin-top: 3%;
 }
 
+@media screen and (max-width: 390px) {
+  .recom {
+    height: 19rem;
+    width: 100%;
+  }
+
+  .kit-1 {
+    display: flex;
+    flex-direction: column;
+    float: right;
+    width: 6rem;
+  }
+
+  .kit-2 {
+    display: flex;
+    flex-direction: column;
+    float: right;
+    width: 6rem;
+  }
+
+  .kit-3 {
+    display: flex;
+    flex-wrap: wrap;
+    float: right;
+    width: 6rem;
+  }
+
+  .kit4 {
+    display: flex;
+    flex-wrap: wrap;
+    float: right;
+    width: 6rem;
+  }
+
+  .kit-5 {
+    display: flex;
+    flex-wrap: wrap;
+    float: right;
+    width: 6rem;
+  }
+
+  .kit-6 {
+    display: flex;
+    flex-wrap: wrap;
+    float: right;
+    width: 6rem;
+  }
+
+  .kit-8 {
+    display: flex;
+    flex-wrap: wrap;
+    float: right;
+    width: 6rem;
+  }
+}
+
+
 .kit-3 {
   display: flex;
   flex-direction: row;
@@ -587,7 +648,7 @@
 .becs1 {
   height: 6rem;
   padding-top: 16%;
-  margin-left: 2rem;
+  margin-left: 0.5rem;
 }
 
 .kit4 {
@@ -703,7 +764,8 @@
 .show {
   display: flex;
   flex-direction: row;
-  justify-content: center;
+  justify-content: space-around;
+  width: 100%;
 }
 
 .bnt-3 {
@@ -833,4 +895,34 @@
   margin: 0 auto;
   padding: 0;
   height: 4vh;
+}
+
+@media screen and (max-width: 390px) {
+  .show {
+    display: flex;
+  }
+
+  #footer {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 2%;
+    margin-left: 3%
+  }
+
+  .footer-rit {
+    width: 4rem;
+    display: flex;
+  }
+
+  .footer-btm {
+    font-size: smaller;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+  }
+
+  .ritt {
+    display: flex;
+    font-size: small;
+  }
 }
