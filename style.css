@@ -95,15 +95,9 @@
     justify-content: flex-start;
   }
 
-
   .rental-left {
     height: 90%;
     width: 80%;
-  }
-
-  #body {
-    margin: auto;
-    height: 100%;
   }
 }
 
@@ -180,7 +174,7 @@
   #pick {
     display: flex;
     flex-wrap: wrap;
-    width: 100%
+    width: 100%;
   }
 
   #middle {
