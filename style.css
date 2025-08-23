@@ -54,12 +54,6 @@
 }
 
 @media screen and (max-width: 390px) {
-  #search {
-    width: 50%;
-    padding: 0 10px;
-    height: 60%;
-  }
-
   .head {
     display: flex;
     flex-direction: column;
@@ -90,7 +84,7 @@
   }
 
   .pop {
-    height: 8rem;
+    height: 12rem;
     display: flex;
     justify-content: flex-start;
   }
@@ -923,5 +917,45 @@
   .ritt {
     display: flex;
     font-size: small;
+  }
+
+  .line {
+    display: none;
+  }
+
+  .bnt-15 {
+    transform: translateY(-1rem);
+  }
+
+  .bnt-16 {
+    transform: translateY(-1rem);
+  }
+
+  .bnt-17 {
+    transform: translateY(-1rem);
+  }
+
+  .bnt-18 {
+    transform: translateY(-1rem);
+  }
+
+  .bnt-19 {
+    transform: translateY(-1rem);
+  }
+
+  .bnt-110 {
+    transform: translateY(-1rem);
+  }
+
+  .bnt-101 {
+    transform: translateY(-1rem);
+  }
+
+  .bnt-002 {
+    transform: translateY(-1rem);
+  }
+
+  .show {
+    transform: translateX(-10rem);
   }
 }
