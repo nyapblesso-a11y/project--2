@@ -891,10 +891,6 @@
 }
 
 @media screen and (max-width: 390px) {
-  .show {
-    display: flex;
-  }
-
   #footer {
     display: flex;
     flex-wrap: wrap;
@@ -957,5 +953,6 @@
 
   .show {
     transform: translateX(-10rem);
+    
   }
 }
