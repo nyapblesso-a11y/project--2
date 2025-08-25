@@ -961,7 +961,8 @@
     transform: translateX(-10rem);
   }
 }
-@media screen  and (width: 2560px){
+
+@media screen  and (width: 2560px) {
   #last {
     display: flex;
     justify-content: space-around;
