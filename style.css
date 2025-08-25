@@ -961,3 +961,13 @@
     transform: translateX(-10rem);
   }
 }
+@media screen  and (width: 2560px){
+  #last {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    grid-template-rows: auto;
+    gap: 15rem;
+    padding-left: 6rem;
+  }
+}
