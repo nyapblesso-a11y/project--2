@@ -54,6 +54,10 @@
 }
 
 @media screen and (max-width: 390px) {
+  #search {
+    margin: 0;
+  }
+
   .head {
     display: flex;
     flex-direction: column;
@@ -94,9 +98,6 @@
     width: 80%;
   }
 
-  #body {
-    width: 100%;
-  }
 }
 
 #body {
